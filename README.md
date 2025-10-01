@@ -1,7 +1,7 @@
 # Internships
 Welcome To the Folder Explore My amazing coding Journey
 <p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+  <img src="https://github.com/DDEV98/Internships/blob/main/Your%20paragraph%20text.gif">
 </p>
   
 .
